@@ -1,0 +1,16 @@
+<!--Theme.xml code-->
+<image name="Switch Icon" extra="true">
+	<origin>0.5 0.5</origin>
+	<pos>0.08 0.95</pos>
+	<path>./assets/icon.svg</path>
+	<zIndex>99</zIndex>
+</image>
+---
+<!--4_3.xml code-->
+<image name="Switch Icon" extra="true">			
+	<size>0.11 0.05</size>
+</image>
+<!--16_9.xml code-->
+<image name="Switch Icon" extra="true">			
+	<size>0.07 0.05</size>
+</image>
